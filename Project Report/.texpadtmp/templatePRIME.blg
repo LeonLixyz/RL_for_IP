@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: /Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/al4263_LeonLi_Project/Project Report/.texpadtmp/templatePRIME.aux
+The style file: unsrt.bst
+Database file #1: ../references.bib
+Name 1 in "Yunhao Tang, Shipra Agrawal, and Yuri Faenza" has a comma at the end for entry rlcut
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in lecture
+Warning--empty year in lecture
+Too many commas in name 1 of "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, Illia Polosukhin" for entry attention1
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, Illia Polosukhin" for entry attention1
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, Illia Polosukhin" for entry attention1
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, Illia Polosukhin" for entry attention1
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, Illia Polosukhin" for entry attention1
+while executing---line 944 of file unsrt.bst
+Warning--empty year in pg
+You've used 6 entries,
+            1791 wiz_defined-function locations,
+            472 strings with 4631 characters,
+and the built_in function-call counts, 808 in all, are:
+= -- 63
+> -- 28
+< -- 0
++ -- 13
+- -- 7
+* -- 27
+:= -- 152
+add.period$ -- 17
+call.type$ -- 6
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 48
+empty$ -- 85
+format.name$ -- 7
+if$ -- 169
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 32
+num.names$ -- 6
+pop$ -- 22
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 19
+stack$ -- 0
+substring$ -- 0
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 6
+width$ -- 7
+write$ -- 58
+(There were 6 error messages)
