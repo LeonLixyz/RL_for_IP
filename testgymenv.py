@@ -5,7 +5,7 @@ import os
 import torch
 
 cwd = os.getcwd()
-PATH = cwd + '/Policy/easy_model'
+PATH = cwd + '/Policy/hard_model'
 Policy = torch.load(PATH)
 
 
