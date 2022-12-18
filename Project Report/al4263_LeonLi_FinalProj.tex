@@ -69,7 +69,7 @@ This project mostly follows the paper Reinforcement Learning for Integer Program
 The policy $\pi$ samples an action from the action space each time: $a = \pi(s_t ; \theta)$. The policy is a parametrized neural network.The core dilemma is that size of state and action space is not fixed. To solve this problem, we use the LSTM\cite{lstm} and the Attention Mechanism\cite{attention1}\cite{attention2}. First of all, we concatenate $A$ and $b$ and call it the constraint matrix, and concatenate $E$ and $d$ call it the candidate matrix. At time step $T = t$, the constraint matrix is a matrix with the shape of $\mathbb{R} ^ {(m+t) \times (n+1)}$, where $m+t$ is the number of constraints and $n$ is the number of variables. Similarly, for the candidate matrix, it is a matrix with the shape of $\mathbb{R} ^ {(k) \times (n+1)}$, where $k$ is the number of candidate Gomory cuts. The core idea of the algorithm is to calculate the attention score for each cuts in the candidate with all the constraint in the constraint matrix.\cite{rlcut} And the candidate with the highest attention score will be the most aligned with the set of constraints, which means the cuts with the highest reward. 
 
 The implementation is the following: we first use an LSTM with hidden dimension of $32$ to embed the constraint matrix and candidate matrix. Here, we use the last hidden cell output of the LSTM as the final embedding. For the embedding, we pass it to a 2 hidden layer neural network with hidden unit of size $64$ and Tanh nonlinear activation functions. The output dimension is $k = 16$. Let's call the embedded constraint matrix as $H$ and the embedded candidate matrix as $G$. The attention score matrix is calculated as
- \[S_j = \frac{1}{N_t}\sum_{i=1}^{N_t} g_j^Th_i \text{$\forall$ $h_i$, $g_j$ in H, G} \]
+ \[S_j = \frac{1}{N_t}\sum_{i=1}^{N_t} g_j^Th_i \text{$\forall$ $h_i$, $g_j$ in H, G} \cite{rlcut}\]
  
  The action is then simply the argmax over the Softmax of the attention score.
 
@@ -217,7 +217,7 @@ In this project, we explored how to solve IP under the RL paradigm. The model ca
 
 
 %Bibliography
-\bibliographystyle{unsrt}  
+\bibliographystyle{plain}  
 \bibliography{references}  
 
 

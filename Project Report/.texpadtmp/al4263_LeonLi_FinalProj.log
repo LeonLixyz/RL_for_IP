@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.17)  17 DEC 2022 21:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.17)  17 DEC 2022 21:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -351,7 +351,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen181
 \Gin@req@width=\dimen182
-) (/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/al4263_LeonLi_Project/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.aux
+) (/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/RL_for_IP/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.aux
 
 LaTeX Warning: Label `alg:cap' multiply defined.
 
@@ -463,7 +463,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 39.
 LaTeX Info: Redefining \pageref on input line 39.
 LaTeX Info: Redefining \nameref on input line 39.
- (/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/al4263_LeonLi_Project/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.out) (/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/al4263_LeonLi_Project/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.out)
+ (/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/RL_for_IP/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.out) (/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/RL_for_IP/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.out)
 \@outlinefile=\write3
 \openout3 = `al4263_LeonLi_FinalProj.out'.
 
@@ -527,28 +527,28 @@ Package microtype Info: Loading generic protrusion settings for font family
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 108.
  [2]
-<IMGS//easy_config.png, id=104, 803.0pt x 300.12125pt>
+<IMGS//easy_config.png, id=105, 803.0pt x 300.12125pt>
 File: IMGS//easy_config.png Graphic file (type png)
 <use IMGS//easy_config.png>
 Package pdftex.def Info: IMGS//easy_config.png  used on input line 176.
 (pdftex.def)             Requested size: 234.87749pt x 87.78397pt.
  [3]
-<IMGS//hard_config.png, id=113, 800.9925pt x 288.07625pt>
+<IMGS//hard_config.png, id=114, 800.9925pt x 288.07625pt>
 File: IMGS//hard_config.png Graphic file (type png)
 <use IMGS//hard_config.png>
 Package pdftex.def Info: IMGS//hard_config.png  used on input line 184.
 (pdftex.def)             Requested size: 234.87749pt x 84.47185pt.
-<IMGS//superhard_config.png, id=114, 796.9775pt x 289.08pt>
+<IMGS//superhard_config.png, id=115, 796.9775pt x 289.08pt>
 File: IMGS//superhard_config.png Graphic file (type png)
 <use IMGS//superhard_config.png>
 Package pdftex.def Info: IMGS//superhard_config.png  used on input line 192.
 (pdftex.def)             Requested size: 234.87749pt x 85.19405pt.
-<IMGS//easy_test.png, id=115, 508.90125pt x 786.94pt>
+<IMGS//easy_test.png, id=116, 508.90125pt x 786.94pt>
 File: IMGS//easy_test.png Graphic file (type png)
 <use IMGS//easy_test.png>
 Package pdftex.def Info: IMGS//easy_test.png  used on input line 202.
 (pdftex.def)             Requested size: 220.78542pt x 341.41556pt.
-<IMGS//hard_test.png, id=116, 489.83pt x 787.94376pt>
+<IMGS//hard_test.png, id=117, 489.83pt x 787.94376pt>
 File: IMGS//hard_test.png Graphic file (type png)
 <use IMGS//hard_test.png>
 Package pdftex.def Info: IMGS//hard_test.png  used on input line 208.
@@ -556,7 +556,7 @@ Package pdftex.def Info: IMGS//hard_test.png  used on input line 208.
 
 Underfull \vbox (badness 7963) has occurred while \output is active []
 
- [4 <./IMGS//easy_config.png> <./IMGS//hard_config.png> <./IMGS//superhard_config.png>] (/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/al4263_LeonLi_Project/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.bbl) [5 <./IMGS//easy_test.png> <./IMGS//hard_test.png>] (/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/al4263_LeonLi_Project/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.aux)
+ [4 <./IMGS//easy_config.png> <./IMGS//hard_config.png> <./IMGS//superhard_config.png>] (/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/RL_for_IP/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.bbl) [5 <./IMGS//easy_test.png> <./IMGS//hard_test.png>] (/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/RL_for_IP/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -564,18 +564,18 @@ Package rerunfilecheck Info: File `al4263_LeonLi_FinalProj.out' has not changed.
 (rerunfilecheck)             Checksum: AAD11BF69896CE5708469423352BEAFF;2466.
  ) 
 Here is how much of TeX's memory you used:
- 13811 strings out of 478994
- 216151 string characters out of 5858184
+ 13808 strings out of 478994
+ 215965 string characters out of 5858184
  709115 words of memory out of 5000000
  30888 multiletter control sequences out of 15000+600000
- 443617 words of font info for 143 fonts, out of 8000000 for 9000
+ 443487 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,10n,88p,1156b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/al4263_LeonLi_Project/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.pdf" (5 pages, 925832 bytes).
+Output written on "/Users/leon66/Desktop/Machine Learning/Reinforcement Learning/Final Project/RL_for_IP/Project Report/.texpadtmp/al4263_LeonLi_FinalProj.pdf" (5 pages, 925847 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 155 compressed objects within 2 object streams
+ 189 PDF objects out of 1000 (max. 8388607)
+ 156 compressed objects within 2 object streams
  35 named destinations out of 1000 (max. 500000)
  41106 words of extra memory for PDF output out of 42996 (max. 10000000)
 
